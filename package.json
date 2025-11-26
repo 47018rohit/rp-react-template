@@ -1,7 +1,7 @@
 {
   "name": "rp-react-template",
   "version": "1.0.2",
-  "description": "A tiny CLI to scaffold a React + Vite + TypeScript + Tailwind project with minimal shadcn components",
+  "description": "A tiny CLI to scaffold a React + Vite + TypeScript + Tailwind project with minimal shadcn components , Easy To setup",
   "type": "module",
   "bin": {
     "rp-react-template": "bin/index.js"
