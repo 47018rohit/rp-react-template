@@ -10,6 +10,10 @@
     "type": "git",
     "url": "https://github.com/47018rohit/rp-react-template.git"
   },
+  "bugs": {
+    "url": "https://github.com/47018rohit/rp-react-template/issues"
+  },
+  "homepage": "https://github.com/47018rohit/rp-react-template#readme",
   "files": [
     "bin/**",
     "templates/**",
