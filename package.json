@@ -6,6 +6,8 @@
   "bin": {
     "rp-react-template": "bin/index.js"
   },
+  "main": "main.js",
+  "preferGlobal": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/47018rohit/rp-react-template.git"
