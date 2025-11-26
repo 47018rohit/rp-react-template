@@ -1,0 +1,33 @@
+{
+  "name": "rp-react-template",
+  "version": "1.0.0",
+  "description": "A tiny CLI to scaffold a React + Vite + TypeScript + Tailwind project with minimal shadcn components",
+  "type": "module",
+  "bin": {
+    "rp-react-template": "bin/index.js"
+  },
+  "files": [
+    "bin/**",
+    "templates/**",
+    "main.js",
+    "create.js"
+  ],
+  "scripts": {
+    "start": "node ./bin/index.js",
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "keywords": [
+    "create-react",
+    "template",
+    "vite",
+    "tailwind",
+    "shadcn"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@clack/prompts": "^0.11.0",
+    "execa": "^9.6.0",
+    "fs-extra": "^11.3.2"
+  }
+}
