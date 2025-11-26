@@ -6,6 +6,10 @@
   "bin": {
     "rp-react-template": "bin/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/47018rohit/rp-react-template.git"
+  },
   "files": [
     "bin/**",
     "templates/**",
